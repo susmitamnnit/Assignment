@@ -1,0 +1,4 @@
+TestCase_01
+1. Hit API with getAllServer - It will return the server with lowest priority
+TestCase_02
+2. Hit API with get_offlineServer - It will return that all server are currently offline.
